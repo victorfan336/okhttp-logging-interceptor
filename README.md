@@ -69,7 +69,7 @@ or via Gradle
 compile 'com.squareup.okhttp3:logging-interceptor:(insert latest version)'
 ```
 
-Some content copy from: https://github.com/square/okhttp/edit/master/okhttp-logging-interceptor/README.md, 
+Some contents copy from: https://github.com/square/okhttp/edit/master/okhttp-logging-interceptor/README.md, 
 thanks for the auther.
 
  [1]: https://github.com/square/okhttp/wiki/Interceptors
